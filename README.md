@@ -14,7 +14,7 @@
 
 Hi, I’m **Nickalos** — but online, in the logs, and in the byte stream, you can call me **KvXbyte**.
 
-I’m a cybersecurity professional with a strong foundation in **threat detection**, **log analysis**, and **real-world simulations**, currently leveling up through SOC-aligned tools, labs, and Purple Team strategy. With a Security+ certification and Google Cybersecurity Certificate already complete, I’m continuing to sharpen my skills using Splunk, MITRE ATT&CK, and hands-on platforms like TryHackMe.
+I’m a cybersecurity professional with a strong foundation in threat detection, log analysis, DFIR (Digital Forensics & Incident Response), and real-world simulations, currently leveling up through SOC-aligned tools, labs, and Purple Team strategy. With a Security+ certification and Google Cybersecurity Certificate already complete, I’m now pursuing CompTIA CySA+ to deepen my analysis and detection expertise.
 
 I specialize in no-fluff, tactical execution. Whether it's dissecting packets, tuning detections, or mapping adversarial behavior—I build signal from the noise.
 
