@@ -2,42 +2,40 @@
 
 I'm currently building a career in **Information Technology** with the long-term goal of working in **Cybersecurity**.
 
-After taking a non-traditional path into technology, I discovered that what I enjoy most is understanding how systems work, solving problems, and continuously learning. This GitHub reflects that process. Rather than trying to document everything, I focus on building a strong foundation, practicing what I learn, and sharing that progress along the way.
+After taking a non-traditional path into technology, I discovered that what I enjoy most is understanding how systems work, solving problems, and continuously learning. This GitHub reflects that journey. Rather than trying to document everything, I focus on building a strong foundation, applying what I learn through hands-on practice, and documenting that growth along the way.
 
 ---
 
-## 🎯 Current Focus
+# 🎯 Current Focus
 
-### 💻 Information Technology
+## 💻 Information Technology
 
 - CompTIA A+
+- CompTIA Network+
 - Windows
 - Linux
-- Networking
 - Active Directory
 
-### 🛡️ Cybersecurity
+## 🛡️ Cybersecurity
 
-- CompTIA Network+
 - Security Fundamentals
+- Security Operations
 - SIEM (Splunk)
-- Incident Response
+- Threat Detection
 
 ---
 
-## 📂 Featured Repository
+# 📂 Featured Repository
 
-If you're interested in seeing my work, documentation, and ongoing projects, start here:
+If you're interested in exploring my work, technical documentation, and ongoing learning, start here:
 
-### ➜ [Technical Growth](https://github.com/thekvx/technical-growth)
+➡️ **[Technical Growth](https://github.com/thekvx/technical-growth)**
 
-This repository serves as my technical portfolio, documenting what I've learned through structured study, hands-on labs, personal projects, and continuous improvement.
+This repository serves as my technical portfolio, documenting my certifications, hands-on labs, technical documentation, projects, and continuous growth throughout my Information Technology and Cybersecurity journey.
 
 ---
 
-## 🤝 Let's Connect
+# 🤝 Let's Connect
 
 - 💼 LinkedIn: https://linkedin.com/in/thekvx
 - 📧 Email: itskvasir@gmail.com
-
-Thanks for stopping by!
